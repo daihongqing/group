@@ -1,6 +1,12 @@
 body {
   margin: auto;
 }
+.qqq a{
+    font-size: 70px;
+    color: black;
+    margin-right:60px;
+  }
+
 .NIE-topBar-main {
   height: 54px;
   width: 100%;
